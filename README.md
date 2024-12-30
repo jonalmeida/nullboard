@@ -2,8 +2,6 @@
 
 Nullboard is a minimalist take on a kanban board / a task list manager, designed to be compact, readable and quick in use.
 
-https://nullboard.io/preview
-
 ![Nullboard](images/nullboard-example-alt.png)
 
 The name also happens to abbreviate to [NB](https://en.wikipedia.org/wiki/Nota_bene), which I think is a nice touch.
